@@ -1,0 +1,37 @@
+element_global_id	subtypecode	subtypename	subtypenote
+684185	CEGL007844a	Subassociation A	
+684185	CEGL007844b	Subassociation B	
+899511	A3387a	Tsughet-Abieama / Pleusch Alliance	HwBa1|Tsughet-Abieama / Pleusch Alliance|Moist Submaritime, Typic to Mesic
+899511	A3387b	Tsughet-Abieama / Rhytrob Alliance	HwBa2|Tsughet-Abieama / Rhytrob Alliance|Moist Maritime, Typic to Mesic
+872650	M495a	Atlantic Boreal Forest	formerly G812 - <i>Abies balsamea - Picea mariana</i> Atlantic Boreal Forest Group
+689367	CEGL003586a	Subassociation A (fire-maintained)	
+689367	CEGL003586b	Subassociation B (fire-suppressed)	The abundance and diversity of woody components is considerably higher in Subassociation B, while the abundance of grasses and forbs (particularly <i>Aristida stricta</i>) is considerably less.
+688575	CEGL003589a	Subassociation A	
+688575	CEGL003589b	Subassociation B	Subassociation B (3 plots) occurs exclusively in the inner Coastal Plain of North Carolina and South Carolina.
+898968	A0150a	<i>Picea rubens - Betula papyrifera var. cordifolia - Abies balsamea Montane</i> Forest Suballiance	
+898968	A0150b	<i>Picea rubens - Betula alleghaniensis</i> Forest Suballiance	
+871049	A0524a	<i>Pinus rigida / Photinia melanocarpa</i> Suballiance	
+899600	A3477a	Typic Medium Fen Suballiance	
+899600	A3477b	Shore Fen Suballiance	
+899383	A3259a	<i>Fallugia paradoxa - Rhus trilobata - Forestiera pubescens</i> Northern Mojave Wash Suballiance	This suballiance occurs on dry washes and terraces of intermittent stream channels of northern Arizona and New Mexico into southern Colorado and southern Utah, and is dominated by <i>Fallugia paradoxa</i>.
+899383	A3259b	<i>Fallugia paradoxa - Brickellia longifolia</i> Sonoran-Chihuahuan Wash Suballiance	This suballiance includes shrub-dominated washes and terraces of intermittent streambeds that occur in the southern part of the range of the dominant shrub in southern Sonoran Desert and into the Chihuahuan Desert, where <i>Fallugia paradoxa</i> is the dominant shrub.
+899659	A3601a	<i>Tsuga heterophylla - Picea sitchensis / Rhytidiadelphus loreus</i> Suballiance	<i>Rhytidiadelphus loreus</i> - indicator of hypermaritime to maritime climate and nitrogen-poor soils, in coniferous forests common on water-receiving and water-shedding sites.
+899659	A3601b	<i>Tsuga heterophylla - Picea sitchensis / Dryopteris expansa</i> Suballiance	<i>Dryopteris expansa</i> - indicator of cool-temperate, cool meso-thermal climate and nitrogen -medium soils, in coniferous forests common on water-receiving and water-shedding sites.
+899662	A3604a	<i>Tsuga heterophylla - Picea sitchensis - Thuja plicata / Rhytidiadelphus loreus</i> Suballiance	
+899662	A3604b	<i>Tsuga heterophylla - Picea sitchensis / Tiarella trifoliata</i> Suballiance	
+899662	A3604c	<i>Picea sitchensis - Tsuga heterophylla / Gaultheria shallon / Eurhynchium oreganum</i> Suballiance	
+899604	A3481a	Shrub Bog Suballiance	
+899604	A3481b	Shrub Poor Fen Suballiance	
+899603	A3480a	Graminoid Bog Suballiance	
+899603	A3480b	Graminoid Poor Fen Suballiance	
+899234	A3104a	<i>Sporobolus heterolepis - Schizachyrium scoparium / Dasiphora fruticosa ssp. floribunda</i> Mesic Alvar Grassland	
+899234	A3104b	<i>Deschampsia caespitosa - Carex crawei - Packera paupercula</i> Wet-mesic Alvar Grassland	
+899234	A3104c	<i>Sporobolus neglectus / Tortella tortuosa</i> Alvar Pavement Grassland	
+899811	A3759a	<i>Populus angustifolia - Pinus pungens - Salix irrorata</i> Woodland Suballiance	(Central - NV, UT, CO, OR)
+899811	A3759b	<i>Populus angustifolia - Alnus oblongifolia - Acer grandidentatum</i> Woodland Suballiance	(Northern - Canada, MT, WY, ID)
+899811	A3759c	<i>Populus angustifolia - Juniperus deppeana - Forestiera pubescens</i> Woodland Suballiance	(Southern - NM, AZ, CA, TX)
+899811	A3759d	<i>Populus angustifolia - Pinus ponderosa - Cornus sericea</i> Woodland Suballiance	(Throughout)
+900117	A4067a	<i>Stuckenia pectinata</i> Suballiance	
+900117	A4067b	<i>Potamogeton</i> spp. Suballiance	
+683202	CEGL002202a	Type 1	is found on xeric bare rock surfaces and has conspicuous lichens and bryophytes (MNNHP 1993).
+872650	M495b	Ontario-Québec Boreal Forest	formerly G811 - Ontario-Quebec Boreal Forest Group
