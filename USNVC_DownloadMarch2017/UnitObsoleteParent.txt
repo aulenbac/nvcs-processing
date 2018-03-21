@@ -1,0 +1,21 @@
+element_global_id	obsoletedivision	obsoleteparentcode	obsoleteparentname	obsoletenote	obsoletedate	obsoleteauthority
+683081	3.A.2.Na	A4215	Encelia farinosa Desert Scrub Alliance		1/18/2017	K. Schulz
+686128	3.A.2.Na	A3278	Larrea tridentata - Fouquieria splendens Upper Bajada & Rock Outcrop Desert Scrub Alliance		11/18/2016	K. Schulz
+686997	1.B.3.Nb	A3627	Quercus laurifolia - Liquidambar styraciflua - Nyssa biflora Coastal Plain Floodplain Forest Alliance		2/2/2016	M. Pyne
+686777	3.B.1.Ne	A3171	Grayia spinosa Scrub Alliance		11/9/2016	K. Schulz
+688880	3.B.1.Ne	A3198	Artemisia tridentata - Mixed Shrub Dry Steppe & Shrubland Alliance		12/6/2016	K. Schulz
+687819	2.C.5.Nc	A3900	Distichlis spicata Salt Marsh Alliance		11/10/2016	M. Reid
+860831	4.B.2.Xa	M173	North American Arctic & Subarctic Tundra	This belongs in M870 because it is a riparian type, driven by flooding. Many riparian groups are well-drained and not wet for much of the year, but are defined by the seasonal presence of water, without which the vegetation would be completely different. Riparian types are included in "wet" macrogroups in other parts of the NVC. For me, "tall" with "tundra" is an oxymoron.	3/29/2017	G. Kittel
+686866	1.B.2.Na	A2054	Fagus grandifolia - Quercus rubra / Cornus florida Forest Alliance		8/26/2016	L. Sneddon/M. Pyne
+686026	1.B.2.Na	A4072	Tsuga canadensis - Betula alleghaniensis - Acer saccharum Forest Alliance	CEGL006088 is an Appalachian-Allegheny type [see distribution]. <i>Betula lenta</i> is listed as a key diagnostic tree, and absence of typical northern hardwoods is noted. In the Classification Comments field, comparison is made to other closely related associations, including CEGL006293, a dry Appalachian-Allegheny type.	5/12/2016	L. Sneddon
+769486	1.B.3.Nd	A3796	Acer negundo - Fraxinus anomala - Celtis laevigata var. reticulata Riparian Woodland Alliance		9/1/2016	G. Kittel
+943176	2.C.4.Nb	G531	Arid West Interior Freshwater Marsh		12/5/2016	K. Schulz
+840602		A3142	Lycium andersonii - Lycium cooperi Scrub Alliance		11/11/2016	K. Schulz
+685920		A3142	Lycium andersonii - Lycium cooperi Scrub Alliance		11/11/2016	K. Schulz
+684083		A3142	Lycium andersonii - Lycium cooperi Scrub Alliance		11/11/2016	K. Schulz
+688960		A3140	Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
+971684		A3140	Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
+971676		A3140	Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
+686968		A3140	Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
+686104		A3140	Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
+877206		A3140	Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
